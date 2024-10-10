@@ -35,5 +35,5 @@ Docker, MediatR, CQRS, SignalR, RESTful APIs, DDD, TDD, Git, Gitlab CI/CD, Unit 
 * Driving the creation of automotive inventory solution, employing a Modular-Monolith architecture, using .Net Core, Postgres SQL, EF, MediatR, and Redis, including gathering client’s requirements, issues preparation, prototyping and cross-team communication.
 * Resolving complex business-logics challenges and fostering operational efficiency.
 
-
-If you want me to be a part of your team, ask me for more complete CV in my [LinkedIn](https://www.linkedin.com/in/selikhovevgenii/)*
+----
+If you would like me to be a part of your team, please ask for a more ==complete CV== in my [LinkedIn](https://www.linkedin.com/in/selikhovevgenii/)
