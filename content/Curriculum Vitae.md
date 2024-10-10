@@ -1,13 +1,12 @@
 ---
-title: Eugene Selikhov - Senior .Net Backend Developer
+title: Curriculum Vitae
 permalink: /
 aliases:
   - home
   - index
   - start
 ---
-
-Eugene Selikhov - Senior .Net Backend Developer
+**Senior .Net Backend Developer**
 
 💼 **LinkedIn:** [https://www.linkedin.com/in/selikhovevgenii/](https://www.linkedin.com/in/selikhovevgenii/)
 
